@@ -1,0 +1,6 @@
+ * genarate from terminal 
+ * ========= start via terminal =========
+ * openssl genrsa -out your.key.pem 2048 //private key
+ * openssl rsa -in your.key.pem -pubout -out your.pub.pem //public key
+ * ========= end via terminal =========
+
